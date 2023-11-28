@@ -1,2 +1,2 @@
 # c-project
-It was my first C++ project
+This was my first C++ project
